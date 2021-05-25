@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 📫 How to reach me: steedev0@gmail.com
