@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning java
+- 🌱 Mixing & Mastering engineer
 - 📫 How to reach me: steedev0@gmail.com
