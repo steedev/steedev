@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🦕 Migrating from Node to Deno
+- 🦄 Trying to understand vue
 - 📫 How to reach me: steedev0@gmail.com
